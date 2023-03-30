@@ -1,5 +1,4 @@
 # Reds.py
 
-RedsSeason = "The Reds will go undefeated this season"
-
-print(RedsSeason)
+def RedsSeason():
+    print("The Reds will go undefeated in the 2023 season")
