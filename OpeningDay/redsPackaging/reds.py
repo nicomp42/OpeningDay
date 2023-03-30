@@ -12,3 +12,4 @@
 
 def outcome():
     return "Good enough to make the play-offs."
+    print()
