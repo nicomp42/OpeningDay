@@ -11,5 +11,4 @@
 # reds.py
 
 def outcome():
-    return "Good enough to make the play-offs."
-    print()
+    return "Over .500 and make the playoffs."
