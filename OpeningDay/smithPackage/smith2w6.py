@@ -2,4 +2,4 @@
 
 def redsOutcome():
     print("The reds will lose to the cubs this season")
-    
+    return
