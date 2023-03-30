@@ -1,0 +1,1 @@
+print("The Reds will win 20 ames this season.")
