@@ -1,3 +1,4 @@
 # function.py
 
-print("The Reds will have less than 100 losses")
+redscore = "The Reds will have less than 100 losses"
+print(redscore)
