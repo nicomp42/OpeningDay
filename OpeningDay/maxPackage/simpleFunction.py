@@ -1,1 +1,1 @@
-print("The Reds will win 20 games this season.")
+print("The Reds will win 20 ames this season.")
