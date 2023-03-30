@@ -6,6 +6,6 @@ def redsSeason():
     if losses < 85:
         print("The Reds will lose more than " + str(losses) + "% of their games this season")
     else:
-        print("The Reds will at least win " + str(wins) + "% of their games this season")
+        print("The Reds will win at least" + str(wins) + "% of their games this season")
     
 redsSeason()
